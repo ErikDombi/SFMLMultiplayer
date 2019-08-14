@@ -1,0 +1,11 @@
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\bin\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.deps.json
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\bin\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.runtimeconfig.json
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\bin\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\bin\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.dll
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\bin\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.pdb
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.AssemblyInfo.cs
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.dll
+C:\Users\Erik\source\repos\SFMLMultiplayerPOCHost\SFMLMultiplayerPOCHost\obj\Debug\netcoreapp2.2\SFMLMultiplayerPOCHost.pdb
